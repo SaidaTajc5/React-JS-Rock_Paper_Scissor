@@ -1,0 +1,16 @@
+
+button{
+    margin:10px 50px;
+    height: 40px;
+    width: 120px;
+   background-color: #EEB7F3    ;
+   border-radius: 20px;
+   box-shadow: 5px goldenrod rgb(228, 63, 63);
+}
+
+button:hover,
+button:active ,
+button:focus{
+    border:1px springgreen solid;
+    border-radius: 20px;
+}

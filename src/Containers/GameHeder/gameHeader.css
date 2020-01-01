@@ -1,0 +1,23 @@
+.RockIcon , .PaperIcon ,.scissorsIcon{
+    color:#E0E79D;
+    height:50px;
+    width: 50px;
+    margin: 10px 20px;
+}
+
+.Game_Header{
+    background-color: #EC8A75;
+    opacity: 0.8;
+}
+.PaperIcon{
+    color:#7ADE15; 
+}
+.scissorsIcon{
+    color:#E7431C;
+}
+
+.Game_Header h2{
+    padding-bottom: 20px;
+    color: #9DE4E7;
+    
+}
